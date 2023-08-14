@@ -1,0 +1,41 @@
+.navbar-collapse {
+    justify-content: flex-end;
+  }
+.container img{
+    height: 90px;
+    width: auto;
+    margin-right: 0.75rem;
+}
+.navbar-brand{
+    color: #00ADB3;
+}
+.navbar-brand:hover{
+    color: #00ADB3;
+
+}
+.navbar-nav a{
+    margin: 0 16px;
+}
+.row img{
+    height: 500px;
+}
+#About{
+    margin: 40px 0;
+}
+.fa-solid, .fa-regular{
+    font-size: 90px;
+    margin-bottom: 30px;
+}
+#servises h2{
+    margin: 80px 0;
+}
+h3{
+    margin: 40px 0;
+}
+#servises{
+    margin: 150px 0;
+}
+#info{
+    padding-left: 50px;
+    padding-top: 40px;
+}
